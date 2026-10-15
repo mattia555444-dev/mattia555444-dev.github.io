@@ -1,6 +1,9 @@
 # app-ads.txt di Moto Manager TP (com.diocl.motomanager)
 OWNERDOMAIN=mattia555444-dev.github.io
 
+# Google AdMob (dal sito precedente, diocleziano-6f6be.web.app)
+google.com, pub-6502844962758259, DIRECT, f08c47fec0942fa0
+
 # ironSource / LevelPlay (ID editore 685909)
 ironsrc.com, 685909, DIRECT
 
